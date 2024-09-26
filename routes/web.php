@@ -16,8 +16,7 @@ use App\Http\Controllers\CityController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-    
+    return redirect('/employee');
 });
 
 
