@@ -1,0 +1,49 @@
+.bg-siderbar-felipe {
+    background-color: #3834ec;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-header {
+    color: white !important;
+    font-size: 45px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background: linear-gradient(to right, #3834ec, #004e83) !important;
+}
+
+.btn-sidebar {
+    color: white !important;
+}
+
+.brand-text {
+    color: white !important;
+}
+
+.btn-general {
+    color: #3834ec !important;
+    border: 1px solid #3834ec !important;
+    border-radius: 12px !important;
+}g
+
+.list-group-item {
+    color: #3834ec !important;
+}
+
+.search-title .text-light {
+    color: #6f6dee !important;
+}
+
+.page-item.active .page-link {
+    background-color: #3834ec !important;
+    border-color: #3834ec !important;
+    color: white !important;
+}
+
+.page-link {
+    color: #3834ec !important;
+}
